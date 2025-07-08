@@ -1,13 +1,12 @@
 
 
 
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" style="filter: hue-rotate(270deg) saturate(150%);" />
+    alt="example" style="filter: hue-rotate(235deg) saturate(150%);" />
 </p>
-<br>
+
+
 
 
 
