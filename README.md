@@ -1,15 +1,5 @@
   <p align="center">
-  <img  src="<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-  <g>
-    <!-- Example dot -->
-    <circle cx="10" cy="10" r="5" fill="mediumpurple" />
-    <circle cx="30" cy="10" r="5" fill="mediumpurple" />
-    <circle cx="50" cy="10" r="5" fill="mediumpurple" />
-    <!-- Add more circles as needed -->
-  </g>
-</svg>
-
-    "
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 <br>
