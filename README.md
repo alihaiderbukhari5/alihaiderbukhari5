@@ -3,7 +3,8 @@
     alt="example" />
 </p>
 <br>
-
+color_snake: black
+color_dots: mediumpurple
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Ali Haider Bukhari</h1>
 <h3 align="center">A passionate Full Stack develope</h3>
